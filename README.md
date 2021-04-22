@@ -2,6 +2,7 @@
 
 ## How to get Startet
 * Clone repository usin `git clone https://github.com/AureumApes/Finkel`
+* Create a Folder named `Saves` in the Finkel-Folder 
 * Install Pygame using `pip3 install pygame`
 * Start the Script via `python3 main.py`
 
