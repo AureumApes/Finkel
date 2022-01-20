@@ -10,15 +10,15 @@
 * Drawing
     * Mouse 1 to Draw
     * X to select black
-* Colours
+* Colors
     * C + R = Red
     * C + Y = Yellow
     * C + B = Blue
     * C + G = Green
     * C + W = White
 * Different stuff
-    * S = Save in `./saves/NAME.png
-    * J = Mix own Colour in Console
-    * M = Select Custom Colour
-    * K = Shows active Colour
-    * L = Hide active Colour
+    * S = Save current image in `./saves/NAME.png
+    * J = Mix own Color in Console
+    * M = Select Custom Color
+    * K = Shows active Color
+    * L = Hide active Color
